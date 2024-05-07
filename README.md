@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on backend development projects
 - 📫 How to reach me okalboz49@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I have used Gitea for long....and I'm young to GitHub.
 
 <!---
 Geokal495/Geokal495 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
