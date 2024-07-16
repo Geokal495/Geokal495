@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning the fundamentals of AI
 - 💞️ I’m looking to collaborate on backend development projects
 - 📫 How to reach me okalboz49@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: I have used Gitea for long....and I'm young to GitHub.
 
 <!---
